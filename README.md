@@ -1,4 +1,4 @@
-📌 To-Do List App
+To-Do List App
 
 A simple and efficient To-Do List application that helps you manage your daily tasks effectively.
 
