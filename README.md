@@ -1,25 +1,23 @@
-📌 Todo List Web App :-
+📌 To-Do List App
 
-A simple Todo List application built using HTML, JavaScript, Tailwind CSS, and MockAPI for CRUD operations.
+A simple and efficient To-Do List application that helps you manage your daily tasks effectively.
 
+Features
 
-🚀 Features :-
+Add new tasks
 
-✅ Add new tasks with name, priority, and deadline
+Mark tasks as completed
 
-✅ Edit tasks (name, priority, deadline, status)
+Delete tasks
 
-✅ Delete tasks
+Responsive design for mobile and desktop
 
-✅ Change task status (Pending → Ongoing → Completed)
+User-friendly interface
 
-✅ Filter tasks based on status & priority
+Technologies Used
 
-✅ Fully responsive design for all devices
+HTML
 
+CSS (TailwindCSS)
 
-🖥️ Technologies Used :-
-
-Frontend: HTML, JavaScript, Tailwind CSS
-
-Backend: MockAPI (https://mockapi.io)
+JavaScript
