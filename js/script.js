@@ -1,4 +1,4 @@
-function createElement(tagName, attributes, textContent = "") {
+  function createElement(tagName, attributes, textContent = "") {
   const element = document.createElement(tagName);
   for (let attribute in attributes) {
     element.setAttribute(attribute, attributes[attribute]);
@@ -9,7 +9,7 @@ function createElement(tagName, attributes, textContent = "") {
 
 const API_URL = "https://67ada5373f5a4e1477de7240.mockapi.io/todo";
 
-async function fetchAndDisplay(
+  async function fetchAndDisplay(
   element,
   filterText = { status: "", priority: "" }
 ) {
@@ -46,7 +46,7 @@ async function fetchAndDisplay(
                 : "border-green-600 bg-green-50 hover:bg-green-100"),
           })
         );
-        3;
+        
 
         todoRow.appendChild(createElement("td", { class: "p-4" }, todo.id));
 
