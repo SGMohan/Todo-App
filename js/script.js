@@ -147,7 +147,7 @@ const API_URL = "https://67ada5373f5a4e1477de7240.mockapi.io/todo";
             "button",
             {
               class:
-                "text-blue-600 hover:text-blue-900 focus:outline-none hover:cursor-pointer",
+                "text-blue-600 hover:text-blue-800 focus:outline-none hover:cursor-pointer",
             },
             "Edit"
           )
